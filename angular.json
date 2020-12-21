@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ankit-kumar"
+    }
+  },
+  "defaultProject": "ankit-kumar",
+  "cli": {
+    "analytics": false
+  }
 }
